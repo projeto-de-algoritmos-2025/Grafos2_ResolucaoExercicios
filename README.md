@@ -1,71 +1,48 @@
+# 📘 Lista 2 - Grafos 2
 
-**Número da Lista**: 2  
-**Conteúdo da Disciplina**: Grafos 2  
+Este repositório contém as soluções desenvolvidas para a **Lista 2** da disciplina de **Grafos 2**. As atividades exploram conceitos fundamentais e avançados em grafos, com a aplicação de algoritmos clássicos para resolução de problemas computacionais.
 
-## 👨‍💻 Alunos
-| Matrícula | Aluno |
-| --------- | ------------------------------- |
-| 20/0060783 | Ana Beatriz W. Massuh |
-| 21/1063194 | Lucas Victor Ferreira de Araújo |
+## 🧠 Conteúdo Abordado
 
----
-
-
-### Objetivos
-
-
-
-<p align="center">
-  <sub>Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a> e <a href="https://github.com/AnaBeatrizMassuh">Ana Beatriz W. Massuh</a>, 2025</sub>
-</p>
-
-## ⚙️ Instalação
-
-
-
-### 📦 Pré-requisitos
-
-
-### Passo a Passo
-
-### 🔽 Clonando o Repositório
-
-```bash
-
-```
-
-
-
-## 🧠 Algoritmos Implementados
-
-
----
+- Representação de grafos direcionados e não direcionados
+- Algoritmos de busca: BFS (Busca em Largura) e DFS (Busca em Profundidade)
+- Ordenação topológica
+- Componentes fortemente conexos
+- Algoritmos de caminhos mínimos e árvores geradoras mínimas:
+  - Dijkstra
+  - Kruskal
+  - Prim
 
 ## 📁 Estrutura do Projeto
 
----
-## 📽️ Vídeo de explicação
-
-<p align="center">
-  <a href="#">🔗 Clique aqui para assistir ao vídeo no YouTube</a>
-</p>
-
-<p align="center">
-  <a href="#">
-    <img src="#" alt="#" width="560" height="315"/>
-  </a>
-</p>
+A estrutura geral dos arquivos está organizada da seguinte forma:
 
 
+## 👨‍💻 Alunos
 
-<p align="center">
-  <sub>Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a> e <a href="https://github.com/AnaBeatrizMassuh">Ana Beatriz W. Massuh</a>, 2025</sub>
-</p>
+| Matrícula  | Aluno                             |
+| ---------- | --------------------------------- |
+| 20/0060783 | Ana Beatriz W. Massuh             |
+| 21/1063194 | Lucas Victor Ferreira de Araújo   |
 
+## 💡 Como executar
 
----
+1. Clone este repositório:
+   ```bash
+   https://github.com/projeto-de-algoritmos-2025/Grafos_2.git
+   ```
 
-## ✨ Extras
+2. Navegue até o diretório do projeto:
+  ``` bash
+  cd Grafos_2
+  ```
 
+3. Execute os scripts em Python com:
+   ```bash
+   python3 nome_do_arquivo.py
+   ```
+
+   
+   
 
 

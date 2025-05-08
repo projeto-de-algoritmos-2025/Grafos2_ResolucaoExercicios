@@ -35,7 +35,7 @@ Este repositório contém as soluções desenvolvidas para a **Lista 2** da disc
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/projeto-de-algoritmos-2025/Grafos_2.git
+   git clone https://github.com/projeto-de-algoritmos-2025/Grafos2_ResolucaoExercicios.git
    ```
 
 2. Navegue até o diretório do projeto:

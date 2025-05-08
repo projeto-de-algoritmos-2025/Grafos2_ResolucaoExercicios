@@ -33,16 +33,29 @@ A estrutura geral dos arquivos está organizada da seguinte forma:
    ```
 
 2. Navegue até o diretório do projeto:
-  ``` bash
-  cd Grafos_2
-  ```
+    ``` bash
+    cd Grafos_2
+    ```
 
 3. Execute os scripts em Python com:
    ```bash
    python3 nome_do_arquivo.py
    ```
 
-   
+## Questões:
+
+<div align="center">
+
+| Questão           | Solução                 |
+| ------------------| ----------------------- |
+| [Questão 1](../Grafos_2/Questões/Questão_1.md)| [Solução 1](../Grafos_2/Soluções/Questão_1.py)|
+
+</div>
+
+<p align="center">
+  <sub>Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a> e <a href="https://github.com/AnaBeatrizMassuh">Ana Beatriz W. Massuh</a>, 2025</sub>
+</p>
+
    
 
 

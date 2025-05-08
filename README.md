@@ -1,7 +1,7 @@
 # 📘 Lista 2 - Grafos 2
 
-**Número da Lista**: 2 
-**Conteúdo da Disciplina**: Grafos 2
+**Número da Lista**: 2<br>
+**Conteúdo da Disciplina**: Grafos 2<br>
 
 ## 👨‍💻 Alunos
 | Matrícula | Aluno |

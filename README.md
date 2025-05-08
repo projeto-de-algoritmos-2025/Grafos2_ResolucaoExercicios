@@ -29,7 +29,7 @@ A estrutura geral dos arquivos está organizada da seguinte forma:
 
 1. Clone este repositório:
    ```bash
-   https://github.com/projeto-de-algoritmos-2025/Grafos_2.git
+   git clone https://github.com/projeto-de-algoritmos-2025/Grafos_2.git
    ```
 
 2. Navegue até o diretório do projeto:

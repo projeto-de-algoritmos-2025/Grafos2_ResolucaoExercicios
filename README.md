@@ -52,9 +52,10 @@ Este repositório contém as soluções desenvolvidas para a **Lista 2** da disc
 
 <div align="center">
 
-| Questão           | Solução                 |
-| ------------------| ----------------------- |
-| [Questão 1](../Grafos_2/Questões/Questão_1.md)| [Solução 1](../Grafos_2/Soluções/Questão_1.py)|
+| Questão           | Solução                 | Dificuldade             |
+| ------------------| ----------------------- | ----------------------- |
+| [Questão 1](../Grafos_2/Questões/Questão_1.md)| [Solução 1](../Grafos_2/Soluções/Solução_1.py)| Difícil |
+| [Questão 2](../Grafos_2/Questões/Questão_2.md)| [Solução 2](../Grafos_2/Soluções/Solução_2.py)| Difícil |
 
 </div>
 

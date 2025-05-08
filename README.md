@@ -1,8 +1,19 @@
 # 📘 Lista 2 - Grafos 2
 
+**Número da Lista**: 2 
+**Conteúdo da Disciplina**: Grafos 2
+
+## 👨‍💻 Alunos
+| Matrícula | Aluno |
+| --------- | ------------------------------- |
+| 20/0060783 | Ana Beatriz W. Massuh |
+| 21/1063194 | Lucas Victor Ferreira de Araújo |
+
+## 📌 Sobre
+
 Este repositório contém as soluções desenvolvidas para a **Lista 2** da disciplina de **Grafos 2**. As atividades exploram conceitos fundamentais e avançados em grafos, com a aplicação de algoritmos clássicos para resolução de problemas computacionais.
 
-## 🧠 Conteúdo Abordado
+### 🧠 Conteúdo Abordado
 
 - Representação de grafos direcionados e não direcionados
 - Algoritmos de busca: BFS (Busca em Largura) e DFS (Busca em Profundidade)
@@ -13,17 +24,12 @@ Este repositório contém as soluções desenvolvidas para a **Lista 2** da disc
   - Kruskal
   - Prim
 
-## 📁 Estrutura do Projeto
+## 🖼️ Screenshots
 
-A estrutura geral dos arquivos está organizada da seguinte forma:
+## ⚙️ Instalação
 
-
-## 👨‍💻 Alunos
-
-| Matrícula  | Aluno                             |
-| ---------- | --------------------------------- |
-| 20/0060783 | Ana Beatriz W. Massuh             |
-| 21/1063194 | Lucas Victor Ferreira de Araújo   |
+**Linguagem**: Python 
+**Biblioteca**:
 
 ## 💡 Como executar
 

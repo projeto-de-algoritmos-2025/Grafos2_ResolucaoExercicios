@@ -56,7 +56,7 @@ Este repositório contém as soluções desenvolvidas para a **Lista 2** da disc
 | ------------------| ----------------------- | ----------------------- |
 | [Questão 1](https://github.com/projeto-de-algoritmos-2025/Grafos2_ResolucaoExercicios/blob/main/Quest%C3%B5es/Quest%C3%A3o_1.md)| [Solução 1](https://github.com/projeto-de-algoritmos-2025/Grafos2_ResolucaoExercicios/blob/main/Solu%C3%A7%C3%B5es/Solu%C3%A7%C3%A3o_1.py)| Difícil |
 | [Questão 2](https://github.com/projeto-de-algoritmos-2025/Grafos2_ResolucaoExercicios/blob/main/Quest%C3%B5es/Quest%C3%A3o_2.md)| [Solução 2](https://github.com/projeto-de-algoritmos-2025/Grafos2_ResolucaoExercicios/blob/main/Solu%C3%A7%C3%B5es/Solu%C3%A7%C3%A3o_2.py)| Difícil |
-| [Questão 3]() | [Solução 3]() | Média |
+| [Questão 3](https://github.com/projeto-de-algoritmos-2025/Grafos2_ResolucaoExercicios/blob/main/Quest%C3%B5es/Quest%C3%A3o_3.md) | [Solução 3](https://github.com/projeto-de-algoritmos-2025/Grafos2_ResolucaoExercicios/blob/main/Solu%C3%A7%C3%B5es/Solu%C3%A7%C3%A3o_3.py) | Média |
 
 </div>
 

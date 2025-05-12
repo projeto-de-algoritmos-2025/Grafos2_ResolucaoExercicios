@@ -16,21 +16,21 @@ Return the minimum number of obstacles to remove so you can move from the upper 
 
 ## Example 1:
 
-    ![Example_1-Q4](../Questões/Imagens/image_14.png)
+![Example_1-Q4](../Questões/Imagens/image_14.png)
 
-    Input: grid = [[0,1,1],[1,1,0],[1,1,0]]
-    Output: 2
-    Explanation: We can remove the obstacles at (0, 1) and (0, 2) to create a path from (0, 0) to (2, 2).
-    It can be shown that we need to remove at least 2 obstacles, so we return 2.
-    Note that there may be other ways to remove 2 obstacles to create a path.
+Input: grid = [[0,1,1],[1,1,0],[1,1,0]]
+Output: 2
+Explanation: We can remove the obstacles at (0, 1) and (0, 2) to create a path from (0, 0) to (2, 2).
+It can be shown that we need to remove at least 2 obstacles, so we return 2.
+Note that there may be other ways to remove 2 obstacles to create a path.
 
 ## Example 2:
 
-    ![Example_2-Q4](../Questões/Imagens/image_15.png)
+![Example_2-Q4](../Questões/Imagens/image_15.png)
 
-    Input: grid = [[0,1,0,0,0],[0,1,0,1,0],[0,0,0,1,0]]
-    Output: 0
-    Explanation: We can move from (0, 0) to (2, 4) without removing any obstacles, so we return 0.
+Input: grid = [[0,1,0,0,0],[0,1,0,1,0],[0,0,0,1,0]]
+Output: 0
+Explanation: We can move from (0, 0) to (2, 4) without removing any obstacles, so we return 0.
  
 
 ## Constraints:

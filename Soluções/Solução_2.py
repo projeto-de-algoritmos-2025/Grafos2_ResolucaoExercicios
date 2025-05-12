@@ -2,8 +2,7 @@ import heapq
 
 class Solution(object):
     def findAnswer(self, n, edges):
-
-        # Criar o grafo como lista de adjacência
+        # Criar o grafo
         graph = [[] for _ in range(n)]
         for u, v, w in edges:
             graph[u].append((v, w))
@@ -25,18 +24,23 @@ class Solution(object):
 
             return dist
 
-        # Calcular distâncias mínimas a partir de 0 e de n-1
+        # Dijkstra a partir dos dois lados
         dist_from_start = dijkstra(0)
         dist_from_end = dijkstra(n - 1)
+
+        # Se não há caminho de 0 até n - 1
+        if dist_from_start[n - 1] == float('inf'):
+            return [False] * len(edges)
+
         min_total = dist_from_start[n - 1]
 
-        # Verificar se a aresta faz parte de algum caminho mínimo
+        # Verificar se a aresta está em algum caminho mínimo
         result = []
         for u, v, w in edges:
-            ok = (
+            is_on_path = (
                 dist_from_start[u] + w + dist_from_end[v] == min_total or
                 dist_from_start[v] + w + dist_from_end[u] == min_total
             )
-            result.append(ok)
+            result.append(is_on_path)
 
         return result

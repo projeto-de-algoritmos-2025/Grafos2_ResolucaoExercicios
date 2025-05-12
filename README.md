@@ -26,6 +26,17 @@ Este repositório contém as soluções desenvolvidas para a **Lista 2** da disc
 
 ## 🖼️ Screenshots
 
+### Questão 1
+
+![Q1](Questões/Imagens/image_24.png)
+
+### Questão 2
+
+![Q2](Questões/Imagens/image_26.png)
+
+### Questão 3
+
+![Q3](Questões/Imagens/image_25.png)
 
 ### Questão 4
 

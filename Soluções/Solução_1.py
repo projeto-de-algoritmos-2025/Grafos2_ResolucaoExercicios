@@ -3,15 +3,6 @@ from collections import defaultdict
 
 class Solution(object):
     def minimumWeight(self, n, edges, src1, src2, dest):
-        """
-        :type n: int
-        :type edges: List[List[int]]
-        :type src1: int
-        :type src2: int
-        :type dest: int
-        :rtype: int
-        """
-
         # Função que implementa o algoritmo de Dijkstra para encontrar as distâncias mínimas
         def dijkstra(start, graph):
             dist = [float('inf')] * n  # Inicializa todas as distâncias como infinito

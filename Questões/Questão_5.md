@@ -35,3 +35,9 @@ n == grid[i].length
 1 <= k <= m * n
 grid[i][j] is either 0 or 1.
 grid[0][0] == grid[m - 1][n - 1] == 0
+
+## Submissions:
+
+![CASE_1-Q5](../Questões/Imagens/image_21.png)
+
+![CASE_2-Q6](../Questões/Imagens/image_22.png)

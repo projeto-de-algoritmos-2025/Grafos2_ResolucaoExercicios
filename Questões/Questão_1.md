@@ -41,5 +41,5 @@ It can be seen that there does not exist any path from node 1 to node 2, hence t
 
 #### Submissions:
 
-![Submissions](../Questões/Imagens/image_4.png)
+![Submissions](https://github.com/projeto-de-algoritmos-2025/Grafos2_ResolucaoExercicios/blob/main/Quest%C3%B5es/Imagens/image_4.png?raw=true)
 

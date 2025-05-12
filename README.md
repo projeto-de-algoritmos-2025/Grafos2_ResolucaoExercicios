@@ -40,7 +40,7 @@ Este repositório contém as soluções desenvolvidas para a **Lista 2** da disc
 
 ### Questão 4
 
-![Q4](Questões/Imagens/image_18.jpg)
+![Q4](Questões/Imagens/image_18.jpeg)
 
 ### Questão 5
 

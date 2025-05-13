@@ -1,57 +1,75 @@
 # 📘 Lista 2 - Grafos 2
 
-**Número da Lista**: 2<br>
-**Conteúdo da Disciplina**: Grafos 2<br>
+**Número da Lista**: 2  
+**Conteúdo da Disciplina**: Grafos 2  
 
 ## 👨‍💻 Alunos
-| Matrícula | Aluno |
-| --------- | ------------------------------- |
-| 20/0060783 | Ana Beatriz W. Massuh |
-| 21/1063194 | Lucas Victor Ferreira de Araújo |
+
+| Matrícula   | Aluno                        |
+| ----------- | ---------------------------- |
+| 20/0060783  | Ana Beatriz W. Massuh        |
+| 21/1063194  | Lucas Victor F. de Araújo    |
+
+---
+
+## 🎥 Apresentação em Vídeo
+
+Assista à apresentação da resolução comentada das questões no YouTube:  
+
+[![Assista à Apresentação no YouTube](https://img.youtube.com/vi/rfx4fZIpL-E/hqdefault.jpg)](https://youtu.be/rfx4fZIpL-E)
+
+➡️ [Clique aqui para assistir](https://youtu.be/rfx4fZIpL-E)
+
+
+---
 
 ## 📌 Sobre
 
-Este repositório contém as soluções desenvolvidas para a **Lista 2** da disciplina de **Grafos 2**. As atividades exploram conceitos fundamentais e avançados em grafos, com a aplicação de algoritmos clássicos para resolução de problemas computacionais.
+Este repositório contém as soluções desenvolvidas para a **Lista 2** da disciplina de **Grafos 2**.  
+As atividades exploram a aplicação prática de algoritmos clássicos de grafos, com foco em eficiência e clareza.
 
 ### 🧠 Conteúdo Abordado
 
-- Representação de grafos direcionados e não direcionados
-- Algoritmos de busca: BFS (Busca em Largura) e DFS (Busca em Profundidade)
+- Representação de grafos direcionados e não direcionados  
+- Algoritmos de busca:
+  - BFS (Busca em Largura)
+  - DFS (Busca em Profundidade)
 - Ordenação topológica
 - Componentes fortemente conexos
-- Algoritmos de caminhos mínimos e árvores geradoras mínimas:
+- Caminhos mínimos e árvores geradoras mínimas:
   - Dijkstra
   - Kruskal
   - Prim
 
+---
+
 ## 🖼️ Screenshots
 
 ### Questão 1
-
-![Q1](Questões/Imagens/image_24.png)
+<img src="Questões/Imagens/image_24.png" alt="Q1" width="600"/>
 
 ### Questão 2
-
-![Q2](Questões/Imagens/image_26.png)
+<img src="Questões/Imagens/image_26.png" alt="Q2" width="600"/>
 
 ### Questão 3
-
-![Q3](Questões/Imagens/image_25.png)
+<img src="Questões/Imagens/image_25.png" alt="Q3" width="600"/>
 
 ### Questão 4
-
-![Q4](Questões/Imagens/image_18.jpeg)
+<img src="Questões/Imagens/image_18.jpeg" alt="Q4" width="600"/>
 
 ### Questão 5
+<img src="Questões/Imagens/image_23.png" alt="Q5" width="600"/>
 
-![Q5](Questões/Imagens/image_23.png)
+---
 
 ## ⚙️ Instalação
 
-**Linguagem**: Python 
-**Biblioteca**:
+**Linguagem utilizada**: Python  
+**Bibliotecas necessárias**: Nenhuma biblioteca externa além da padrão.
 
-## 💡 Como executar
+---
+
+## 💡 Como Executar
 
 1. Clone este repositório:
    ```bash

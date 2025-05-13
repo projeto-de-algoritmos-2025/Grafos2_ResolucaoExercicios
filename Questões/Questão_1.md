@@ -16,7 +16,7 @@ A subgraph is a graph whose vertices and edges are subsets of the original graph
 
 #### Example 1:
 
-![Example 1](../Questões/Imagens/image_1.png)
+![Example 1](Questões/Imagens/image_1.png)
 
 Input: n = 6, edges = [[0,2,2],[0,5,6],[1,0,3],[1,4,5],[2,1,1],[2,3,3],[2,3,4],[3,4,2],[4,5,1]], src1 = 0, src2 = 1, dest = 5
 Output: 9
@@ -27,7 +27,7 @@ Note that the subgraph [[1,0,3],[0,5,6]] also yields the optimal answer. It is n
 
 #### Example 2:
 
-![Example 2](../Questões/Imagens/image_2.png)
+![Example 2](Questões/Imagens/image_2.png)
 
 Input: n = 3, edges = [[0,1,1],[2,1,1]], src1 = 0, src2 = 1, dest = 2
 Output: -1
@@ -37,7 +37,7 @@ It can be seen that there does not exist any path from node 1 to node 2, hence t
 
 #### Constraints:
 
-![Constrainrs](../Questões/Imagens/image_3.png)
+![Constrainrs](Questões/Imagens/image_3.png)
 
 #### Submissions:
 
